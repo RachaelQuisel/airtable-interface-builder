@@ -2,6 +2,8 @@
 
 *Make everyday work feel good.*
 
+<img src="assets/airtable-interface-builder.png" width="180" alt="Airtable Interface Builder icon with an Airtable mark and a simple application layout" />
+
 A personal plugin for creating playful, useful Airtable interfaces while checking their actual data and save behavior. It captures the fuller GoL build method, including 30 concrete lessons. The stable identifier is `airtable-interface-craft`; the visible plugin and skill name is Airtable Interface Builder.
 
 ## Use it
