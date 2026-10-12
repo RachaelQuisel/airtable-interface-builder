@@ -1,6 +1,6 @@
 {
   "name": "airtable-interface-craft",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Create distinctive Airtable interfaces with verified data, reliable interactions and an exact source return.",
   "skills": "./skills/",
   "author": {
@@ -16,5 +16,6 @@
     "defaultPrompt": "Use $airtable-interface-craft to refine this Airtable interface and verify its real behavior.",
     "logo": "./assets/airtable-interface-builder.png",
     "composerIcon": "./assets/airtable-interface-builder.png"
-  }
+  },
+  "license": "LicenseRef-Proprietary"
 }
