@@ -12,7 +12,7 @@ Turn a cluttered Airtable interface into a clear, playful place to get work done
 - Test useful behaviors, mobile layouts and the actual Airtable setup.
 - Return complete source and distinguish local checks from live results.
 
-The stable plugin and skill identifier is `airtable-interface-craft`. The marketplace is `airtable-interface-builder`. The release version is `1.0.0`.
+The stable plugin and skill identifier is `airtable-interface-craft`. The marketplace is `airtable-interface-builder`. The release version is `1.0.1`.
 
 ## Install in Claude Code
 

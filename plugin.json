@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "airtable-interface-craft",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create distinctive Airtable interfaces with verified data, reliable interactions and an exact source return.",
   "author": {
     "name": "Rachael Quisel"
