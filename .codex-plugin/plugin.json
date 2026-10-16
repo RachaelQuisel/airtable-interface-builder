@@ -1,5 +1,5 @@
 {
-  "name": "airtable-interface-craft",
+  "name": "airtable-interface-builder",
   "version": "1.0.1",
   "description": "Create distinctive Airtable interfaces with verified data, reliable interactions and an exact source return.",
   "skills": "./skills/",
@@ -13,7 +13,7 @@
     "developerName": "Rachael Quisel",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "Use $airtable-interface-craft to refine this Airtable interface and verify its real behavior.",
+    "defaultPrompt": "Use $airtable-interface-builder to refine this Airtable interface and verify its real behavior.",
     "logo": "./assets/airtable-interface-builder.png",
     "composerIcon": "./assets/airtable-interface-builder.png"
   },

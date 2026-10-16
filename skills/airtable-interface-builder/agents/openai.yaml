@@ -3,4 +3,4 @@ interface:
   short_description: "Build warm, reliable Airtable interfaces"
   icon_small: "./assets/airtable-interface-builder.png"
   icon_large: "./assets/airtable-interface-builder.png"
-  default_prompt: "Use $airtable-interface-craft to refine this Airtable interface and verify its real behavior."
+  default_prompt: "Use $airtable-interface-builder to refine this Airtable interface and verify its real behavior."

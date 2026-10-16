@@ -12,7 +12,7 @@ Turn a cluttered Airtable interface into a clear, playful place to get work done
 - Test useful behaviors, mobile layouts and the actual Airtable setup.
 - Return complete source and distinguish local checks from live results.
 
-The stable plugin and skill identifier is `airtable-interface-craft`. The marketplace is `airtable-interface-builder`. The release version is `1.0.1`.
+The plugin and skill identifier is `airtable-interface-builder` (formerly `airtable-interface-craft`). The marketplace is `airtable-interface-builder`. The release version is `1.0.1`.
 
 ## Claude Directory submission
 
@@ -32,13 +32,13 @@ Run these commands in a terminal with Claude Code installed:
 
 ```sh
 claude plugin marketplace add RachaelQuisel/airtable-interface-builder
-claude plugin install airtable-interface-craft@airtable-interface-builder
+claude plugin install airtable-interface-builder@airtable-interface-builder
 ```
 
 Start a new Claude Code session if the skill is not yet visible. Invoke it with:
 
 ```text
-/airtable-interface-craft:airtable-interface-craft
+/airtable-interface-builder:airtable-interface-builder
 ```
 
 Then share the source or accessible interface, your requested changes and the finish you want: source only, installed, published or a verified record action.
@@ -47,7 +47,7 @@ Then share the source or accessible interface, your requested changes and the fi
 
 After installing the Codex plugin, use this prompt:
 
-`Use $airtable-interface-craft to refine this Airtable interface and verify its real behavior.`
+`Use $airtable-interface-builder to refine this Airtable interface and verify its real behavior.`
 
 The package includes portable and Codex compatibility manifests alongside its Claude Code manifest.
 
