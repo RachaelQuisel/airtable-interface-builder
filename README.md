@@ -21,10 +21,21 @@ Status checked on **October 12, 2026**:
 - **Submitted:** October 12, 2026.
 - **Submitted source:** version **1.0.1**, commit [`2490b4b`](https://github.com/RachaelQuisel/airtable-interface-builder/commit/2490b4bbfb3012dad38f89aa7a4d3f8220fd4f99).
 - **Security scan:** passed.
-- **Directory status:** **In review**, awaiting Anthropic review. No public listing yet.
+- **Directory status recorded October 12:** **In review**, awaiting Anthropic review. A current public listing has not been verified.
 - [Publisher status page](https://claude.ai/directory/manage/plugins/b3c4d8f3-ac27-4066-8df1-b4511aa702b5) (requires the submitting account's login).
 
 This is a dated status record. The submitted source commit above precedes this documentation update; later repository changes may be scanned separately.
+
+### Evidence audit: October 16, 2026
+
+- **Partner waitlist:** No separate partner-waitlist submission evidence found. 
+- **Plugin directory:** In review (recorded October 12, 2026; not reverified).
+- **Approved:** Unverified. **Publicly listed:** Unverified. No verified public listing URL is recorded.
+- **Verification limit:** The publisher portal requires sign-in. Public searches and the connected mailbox search did not establish approval; missing results are not proof of rejection or non-publication.
+- **Next action:** Open the existing submission in the original submitting Claude account and organization; record its current decision and any public listing URL.
+
+The [partner waitlist](https://claude.com/marketplace-partners) is for Claude-powered enterprise products. It is separate from plugin-directory review and GitHub marketplace installation. A waitlist application is not directory approval.
+
 
 ## Install in Claude Code
 
