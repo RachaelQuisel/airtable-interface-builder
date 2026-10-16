@@ -32,4 +32,4 @@ Shortlist:
 
 Audience: people building staff and client workflows in Airtable who want a readable, useful interface with some personality.
 
-This is a skills plugin packaged for Claude Code and Codex. Directory preparation and submission do not establish approval or a public listing. The stable plugin and skill identifier remains `airtable-interface-craft`, so the existing invocation is preserved: `$airtable-interface-craft`.
+This is a skills plugin packaged for Claude Code and Codex. Directory preparation and submission do not establish approval or a public listing. The plugin and skill identifier is `airtable-interface-builder` (formerly `airtable-interface-craft`). Invoke it with `$airtable-interface-builder`.
