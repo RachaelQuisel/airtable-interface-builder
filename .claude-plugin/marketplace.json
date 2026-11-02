@@ -11,7 +11,8 @@
       "description": "Make everyday work feel good. Build clear, playful Airtable interfaces with verified data, reliable saves and exact source return.",
       "source": "./",
       "category": "productivity",
-      "homepage": "https://github.com/RachaelQuisel/airtable-interface-builder"
+      "homepage": "https://github.com/RachaelQuisel/airtable-interface-builder",
+      "version": "1.0.4"
     }
   ]
 }

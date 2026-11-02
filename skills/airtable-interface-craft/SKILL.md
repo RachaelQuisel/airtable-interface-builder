@@ -1,9 +1,23 @@
 ---
 name: airtable-interface-craft
+version: 1.0.4
 description: Refine or build Airtable custom interfaces that combine a distinctive visual style with reliable staff workflows. Use for connected task, document, training or calendar experiences, and for returning revised source to Airtable. Preserve an existing design where requested; ordinary record cleanup and automation-only changes are outside this workflow.
 ---
 
 # Airtable Interface Builder
+
+## Purpose in plain English
+
+This skill helps you build or refine Airtable interfaces with a clear visual style, reliable actions, and verified information.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 Make the user's everyday work clear, pleasant and reliable. Start from the actual source and the user's feedback. Preserve the parts they value; improve the interaction and its real data connections together.
 

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "repository": "RachaelQuisel/airtable-interface-builder",
+  "packages": [
+    {
+      "name": "airtable-interface-craft",
+      "root": ".",
+      "version": "1.0.4",
+      "manifests": [
+        "plugin.json",
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "skills": [
+        "skills/airtable-interface-craft/SKILL.md"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "path": "skills/airtable-interface-craft/SKILL.md",
+      "version": "1.0.4",
+      "sha256": "b8da9be36a5a42cfee6892351b6ce8b0f646b40522fc07e79d8ab26c6d165088",
+      "source": "skills/airtable-interface-craft/SKILL.md",
+      "guide": "skills/airtable-interface-craft/README.md"
+    }
+  ],
+  "copies": []
+}
