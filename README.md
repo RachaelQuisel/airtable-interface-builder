@@ -14,29 +14,6 @@ Turn a cluttered Airtable interface into a clear, playful place to get work done
 
 The stable plugin and skill identifier is `airtable-interface-craft`. The marketplace is `airtable-interface-builder`. The release version is `1.0.1`.
 
-## Claude Directory submission
-
-Status checked on **October 12, 2026**:
-
-- **Submitted:** October 12, 2026.
-- **Submitted source:** version **1.0.1**, commit [`2490b4b`](https://github.com/RachaelQuisel/airtable-interface-builder/commit/2490b4bbfb3012dad38f89aa7a4d3f8220fd4f99).
-- **Security scan:** passed.
-- **Directory status recorded October 12:** **In review**, awaiting Anthropic review. A current public listing has not been verified.
-- [Publisher status page](https://claude.ai/directory/manage/plugins/b3c4d8f3-ac27-4066-8df1-b4511aa702b5) (requires the submitting account's login).
-
-This is a dated status record. The submitted source commit above precedes this documentation update; later repository changes may be scanned separately.
-
-### Evidence audit: October 16, 2026
-
-- **Partner waitlist:** No separate partner-waitlist submission evidence found. 
-- **Plugin directory:** In review (recorded October 12, 2026; not reverified).
-- **Approved:** Unverified. **Publicly listed:** Unverified. No verified public listing URL is recorded.
-- **Verification limit:** The publisher portal requires sign-in. Public searches and the connected mailbox search did not establish approval; missing results are not proof of rejection or non-publication.
-- **Next action:** Open the existing submission in the original submitting Claude account and organization; record its current decision and any public listing URL.
-
-The [partner waitlist](https://claude.com/marketplace-partners) is for Claude-powered enterprise products. It is separate from plugin-directory review and GitHub marketplace installation. A waitlist application is not directory approval.
-
-
 ## Install in Claude Code
 
 Run these commands in a terminal with Claude Code installed:
@@ -96,6 +73,6 @@ The requested interface/source, focused verification evidence and a short handof
 
 The assistant may read source files, schema, records and browser content needed for your request. It may save files or use connected services within the scope you authorize. The offline helper reads supplied local files and reports their paths, sizes and hashes; it makes no network requests or writes. See [Data handling](PRIVACY.md) for the complete disclosure.
 
-The canonical source is the [Airtable Interface Builder repository](https://github.com/RachaelQuisel/airtable-interface-builder). Report problems in its [issue tracker](https://github.com/RachaelQuisel/airtable-interface-builder/issues). See [Claude Directory submission](#claude-directory-submission) for the verified submission and review status.
+The canonical source is the [Airtable Interface Builder repository](https://github.com/RachaelQuisel/airtable-interface-builder). Report problems in its [issue tracker](https://github.com/RachaelQuisel/airtable-interface-builder/issues).
 
 All rights reserved. Reuse requires permission under [LICENSE](LICENSE). Airtable names and the identifying mark belong to their respective rights holders; this independent plugin is not endorsed by Airtable. See [Third-party notices](THIRD_PARTY_NOTICES.md).
