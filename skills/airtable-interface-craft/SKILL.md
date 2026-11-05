@@ -1,6 +1,6 @@
 ---
 name: airtable-interface-craft
-version: 1.0.5
+version: 1.0.6
 description: Refine or build Airtable custom interfaces that combine a distinctive visual style with reliable staff workflows. Use for connected task, document, training or calendar experiences, and for returning revised source to Airtable. Preserve an existing design where requested; ordinary record cleanup and automation-only changes are outside this workflow.
 ---
 
