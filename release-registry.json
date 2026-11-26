@@ -5,7 +5,7 @@
     {
       "name": "airtable-interface-craft",
       "root": ".",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "manifests": [
         "plugin.json",
         ".claude-plugin/plugin.json",
@@ -19,8 +19,8 @@
   "skills": [
     {
       "path": "skills/airtable-interface-craft/SKILL.md",
-      "version": "1.0.6",
-      "sha256": "d0f011fa20747fb66e076ab5ddc929e8f19b07fd2c010e6e93bfca8db912d403",
+      "version": "1.0.7",
+      "sha256": "135b3b161cc565c64dd8da9fdfeb586116826e35b594ca8c14b8fb33202fd884",
       "source": "skills/airtable-interface-craft/SKILL.md",
       "guide": "skills/airtable-interface-craft/README.md"
     }
